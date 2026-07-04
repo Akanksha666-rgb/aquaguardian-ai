@@ -194,6 +194,9 @@ The application generates:
 
 ---
 
+## 🏗️ System Workflow
+
+![AquaGuardian AI Workflow](assets/workflow.jpg)
 # 👩‍💻 Author
 
 **Akanksha Sharma**
