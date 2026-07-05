@@ -16,7 +16,7 @@ class VisualizationAgent:
         data = pd.read_csv("water_history.csv")
 
         plt.figure(figsize=(8, 5))
-        plt.plot(data["Score"], marker="o")
+        plt.plot(data["score"], marker="o")
 
         plt.title("Water Quality Score History")
         plt.xlabel("Analysis Number")
